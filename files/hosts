@@ -1,0 +1,6 @@
+127.0.0.1       localhost
+::1             localhost
+
+192.168.250.10  ansibleserver
+192.168.250.100 centosclient
+192.168.250.101 ubuntuclient
